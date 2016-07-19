@@ -1,0 +1,19 @@
+{
+  "name": "Strava-Commute-Button",
+  "version": "0.0.1",
+  "description": "Blah",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jimwhimpey/strava-commute-button.git"
+  },
+  "author": "Jim Whimpey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimwhimpey/strava-commute-button/issues"
+  },
+  "homepage": "https://github.com/jimwhimpey/strava-commute-button",
+  "dependencies": {
+    "strava-v3": "^1.10.0"
+  }
+}
